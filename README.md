@@ -35,7 +35,12 @@
 <h2>Stats</h2>
 <details><summary>Leetcode</summary>
 
-[![Nol1fe LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klansander&theme=dark)](https://leetcode.com/klansander/)
+[![ LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klansander&theme=dark)](https://leetcode.com/klansander/)
+</details>
+
+<details><summary>Codewars</summary>
+
+![ Codewars stats](https://github.r2v.ch/codewars?user=Klansander&stroke=%23BB432C)
 </details>
 
 <details><summary>Wakatime</summary>
